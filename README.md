@@ -1,4 +1,4 @@
 ﻿# AndroidSimpleLoginScreen
-Application creatied using Java for Android Development.
+Application created using Java for Android Development.
 
 Simple Login-Register Screen
